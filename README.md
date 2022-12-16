@@ -1,5 +1,3 @@
-![](./stuff/img.png)
-
 # Obsidian Disable Plugin Temporarily
 
 This plugin is for debugging purposes.
@@ -15,3 +13,8 @@ When using the enable plugins command, any plugins disabled by the plugin will b
 1. Open the command palette (Ctrl/Cmd + P)
 2. Type "Disable plugins" or "Enable plugins"
 3. Press enter
+
+## Check out my other plugins
+
+- [Obsidian Share](https://github.com/nguyenvanduocit/obsidian-share)
+- [Obsidian Open Gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
