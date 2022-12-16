@@ -1,0 +1,14 @@
+{
+	"id": "obsidian-disable-plugin-temporarily",
+	"name": "Disable plugins temporarily",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Disable all plugin temporarily",
+	"author": "duocnv",
+	"authorUrl": "https://twitter.com/duocdev",
+	"fundingUrl": {
+		"Buy Me a Coffee": "https://paypal.me/duocnguyen",
+		"Follow me": "https://twitter.com/duocdev"
+	},
+	"isDesktopOnly": true
+}
